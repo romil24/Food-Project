@@ -19,6 +19,7 @@ function Contact() {
                     veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
                     commodo consequat.
                 </p>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. In officia ipsam saepe velit minima suscipit nihil quod mollitia dolore reiciendis.</p>
             </div>
         </>
     )
